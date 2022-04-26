@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kodecamp-profile-fallback/static/css/main.9fed5f35.css",
+    "main.js": "/kodecamp-profile-fallback/static/js/main.faa2f385.js",
+    "index.html": "/kodecamp-profile-fallback/index.html",
+    "main.9fed5f35.css.map": "/kodecamp-profile-fallback/static/css/main.9fed5f35.css.map",
+    "main.faa2f385.js.map": "/kodecamp-profile-fallback/static/js/main.faa2f385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fed5f35.css",
+    "static/js/main.faa2f385.js"
+  ]
+}
